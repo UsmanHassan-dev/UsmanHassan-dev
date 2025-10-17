@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi there, I'm Usman Hassan
 
-<!--
-**UsmanHassan-dev/UsmanHassan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | Laravel | Node.js | React.js | SaaS | AI/ML Enthusiast**
 
-Here are some ideas to get you started:
+I’m passionate about building scalable web applications, solving real-world problems, and constantly pushing my technical limits. I love clean architecture, automation, and crafting products that make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Currently Working On
+Building a **SaaS platform** using **microservices architecture** — focusing on modularity, performance, and scalability.
+
+---
+
+### 🌱 Currently Learning
+Diving deep into **Artificial Intelligence**, **Machine Learning**, and **fine-tuning models** to bring intelligence into modern applications.
+
+---
+
+### 👯 Open To
+Anything that’s **challenging, innovative, or fast-paced** — whether it’s a new technology stack, complex backend system, or creative product idea.
+
+---
+
+### 💬 Ask Me About
+**Full Stack Development**, **API Integration**, **Laravel**, **Node.js**, **React.js**, **SaaS Architecture**, or **AI integrations**.
+
+---
+
+### 📫 Find Me On
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman%20Hassan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/u-hassan)
+
+---
+
+### ⚡ Fun Fact
+I get bored doing easy stuff — that’s usually when I start scrolling 😅
+
+---
+
+### 🧠 Tech Stack
+
+💻 **Languages:** PHP, JavaScript, TypeScript, SQL  
+🧩 **Frameworks:** Laravel, Node.js, React.js, Express  
+🗄️ **Database:** MySQL, PostgreSQL  
+☁️ **Others:** RESTful APIs, SaaS Development, Microservices, Docker, Git, AI Integrations
+
+---
+
+⭐ _“I believe great software comes from curiosity, persistence, and a bit of caffeine.”_
