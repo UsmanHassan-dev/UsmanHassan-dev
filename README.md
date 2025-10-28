@@ -39,7 +39,7 @@ I get bored doing easy stuff — that’s usually when I start scrolling 😅
 ### 🧠 Tech Stack
 
 💻 **Languages:** PHP, JavaScript, TypeScript, SQL  
-🧩 **Frameworks:** Laravel, Node.js, React.js, Express  
+🧩 **Frameworks:** Laravel, Node.js, React.js, Express.js, Vue.js  
 🗄️ **Database:** MySQL, PostgreSQL  
 ☁️ **Others:** RESTful APIs, SaaS Development, Microservices, Docker, Git, AI Integrations
 
