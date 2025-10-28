@@ -41,6 +41,8 @@ I get bored doing easy stuff — that’s usually when I start scrolling 😅
 💻 **Languages:** PHP, JavaScript, TypeScript, SQL  
 🧩 **Frameworks:** Laravel, Node.js, React.js, Express.js, Vue.js  
 🗄️ **Database:** MySQL, PostgreSQL  
+**Message Brokers / Event Streaming:** ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white), ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white),![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 ☁️ **Others:** RESTful APIs, SaaS Development, Microservices, Docker, Git, AI Integrations
 
 ---
